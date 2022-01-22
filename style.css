@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
 /* @import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&family=Luxurious+Roman&family=Orelega+One&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&family=Great+Vibes&family=Luxurious+Roman&family=Orelega+One&display=swap');
-html {
+/*@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&family=Great+Vibes&family=Luxurious+Roman&family=Orelega+One&display=swap');
+html 
   scroll-behavior: smooth;
 }
 /* CSS Resets */
