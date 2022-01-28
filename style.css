@@ -33,8 +33,7 @@ nav {
     align-items: center;
     justify-content: space-between;
     padding: 1.5rem 3.5rem;
-   background-color: skyblue;
-   /* font-family: 'Archivo Narrow', sans-serif; */
+   background-color: blue;
    font-family: 'Orelega One', cursive;
   }
   nav h1 {
