@@ -295,7 +295,8 @@ nav {
     transform: translateX(0);
   }
   body {
-    background-image: url(backg.jpg);
+   /* background-image: url(backg.jpg);*/
+    background-image: url
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 1.5;
